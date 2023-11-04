@@ -55,7 +55,7 @@ Fórmula:
 ```
 
 #### Fórmula na prática
-```
+```javascript
 var idadeDias = (dataAtual.getDate() - dataNascimento.getDate())
 
 if(idadeDias < 0){
