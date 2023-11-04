@@ -70,10 +70,9 @@ if(idadeDias < 0){
 }
 ```
 
+## React Laches+
 ```
-# React Laches+
-
-![Banner](https://github.com/Victor-Lis/Age-Calculator/main/Screenshots/Home.png)
+![Home](https://github.com/Victor-Lis/Age-Calculator/main/Screenshots/Home.png)
 ```
 
 ## Autores
