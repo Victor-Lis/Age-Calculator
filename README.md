@@ -69,6 +69,13 @@ if(idadeDias < 0){
 
 }
 ```
+
+```
+# React Laches+
+
+![Banner](https://github.com/Victor-Lis/Age-Calculator/main/Screenshots/Home.png)
+```
+
 ## Autores
 
 - [@Victor-Lis](https://github.com/Victor-Lis)
