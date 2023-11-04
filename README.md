@@ -1,7 +1,7 @@
 
 # Age Calculator
 
-Esse é um projeto simples feito para calcular a idade do usuário.
+Esse é um projeto "simples" feito para calcular a idade do usuário.
 
 
 
@@ -16,7 +16,6 @@ Acredito que meu principal problema nessa projeto foi subestimá-lo, pois acredi
 ## Aprendizados
 
 Por final aprendi algumas coisas interessantes como: 
-
 
 
 #### Criar um objeto "Date" já passando uma data como parâmetro
