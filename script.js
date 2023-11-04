@@ -30,7 +30,8 @@ function calcularIdade() {
 
     if(idadeDias < 0){
 
-        idadeDias = Math.floor(30.416666666666666666666666666667 + idadeDias)
+        let variacao = ((7*31 + 4*30 + 1*28.25) / 12)
+        idadeDias = Math.floor(variacao + idadeDias)
 
         if(idadeMeses > 0){
 
@@ -53,15 +54,6 @@ function calcularIdade() {
         <p> ${idadeMeses > 1? "Months": "Month"} : ${idadeMeses} </p>
         <p> ${idadeDias > 1? "Days": "Day"}: ${idadeDias} </p> 
     </div>`
-    console.log(`Year: ${idadeAnos} | Month: ${idadeMeses} | Day: ${idadeDias}`)
-
-    // let quantidadeMeses = (idadeAnos * 12) + idadeMeses;
-
-    // console.log(`Meses: ${quantidadeMeses} | Day: ${idadeDias}`)
-
-    // let quantidadeSemanas = Math.ceil((quantidadeMeses*4.35) + (idadeDias/7))
-
-    // console.log(`Semanas: ${quantidadeSemanas} | Day: ${Math.ceil(((quantidadeMeses*4.35) + (idadeDias/7)) - quantidadeSemanas)}`)
 
 }
   
