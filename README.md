@@ -36,8 +36,7 @@ var idadeMeses = ((dataAtual.getMonth()) - (dataNascimento.getMonth()))
 #### Criação de uma fórmula
 
 ```
-Acabei criando uma fórmula para deixar o cálculo ainda mais preciso, 
-seguindo a seguinte lógica:
+Acabei criando uma fórmula para deixar o cálculo ainda mais preciso, seguindo a seguinte lógica:
 
 Meses com 31 dias: 7
 Meses com 30 dias: 4
